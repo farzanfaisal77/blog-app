@@ -1,4 +1,4 @@
-# blog-app-hd1i.onrender.com/
+# <a href="blog-app-hd1i.onrender.com/">LINK TO THE APP</a>
 <br />
 <div align="center">
 
