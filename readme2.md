@@ -77,16 +77,16 @@ blog-app/
 │   └── urls.py              # User authentication paths
 │
 ├── templates/               # UI HTML Layouts
-│   ├── base.html            # Main boilerplate (Glassmorphic Navigation Bar)
-│   ├── home.html            # Dashboard containing blog feed
+│   ├── base.html            # Main base for the webpage
+│   ├── home.html            # Home page containing blog feed
 │   ├── registration/        # Signup and login pages
 │   └── post_*.html          # Sub-templates for CRUD interactions
 │
 ├── static/                  # Static assets
-│   └── css/                 # base.css (Complete custom layout styling rules)
+│   └── css/                 # base.css (the only AI part 😭)
 │
 ├── requirements.txt         # Core dependencies
-└── createsuperuser.py       # Admin seeding automated script
+└── createsuperuser.py       # Admin automated script
 ```
 
 ---
