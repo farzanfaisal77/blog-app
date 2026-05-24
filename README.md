@@ -1,4 +1,4 @@
-# <a href="https://blog-app-hd1i.onrender.com/" target="_blank">LINK TO THE APP</a>
+# <a href="https://blog-app-hd1i.onrender.com/" target="_blank" rel="noopener noreferrer">LINK TO THE APP</a>
 <br />
 <div align="center">
 
@@ -96,7 +96,7 @@ blog-app/
 
 Follow these steps to run the application locally on your computer.
 
-Follow [this](https://www.notion.so/Deployment-CheckList-for-Render-365e2135265480ceafbaf96bb1d11768?source=copy_link) for my deployment checklist for [Render](https://render.com/).
+Follow <a href="https://www.notion.so/Deployment-CheckList-for-Render-365e2135265480ceafbaf96bb1d11768?source=copy_link" target="_blank" rel="noopener noreferrer">this</a> for my deployment checklist for Render.
 
 ### Prerequisites
 
@@ -166,7 +166,7 @@ For security and deployment purposes, please note the following configuration va
 
 
 <div align="center">
-  <sub>Built with ❤️ and 🚀 by <a href="https://github.com/farzanfaisal77">Farzan Faisal</a> as part of a Python Django Learning Journey.</sub>
+  <sub>Built with ❤️ and 🚀 by <a href="https://github.com/farzanfaisal77" target="_blank" rel="noopener noreferrer">Farzan Faisal</a> as part of a Python Django Learning Journey.</sub>
 </div>
 
 ### Note: css was the only AI part trust 😭
