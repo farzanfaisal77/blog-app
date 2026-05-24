@@ -35,7 +35,7 @@
 *   **Authentication System**: Secure accounts module supporting fully functional signup, user login, and logout. No authorisation yet unfortunately.
 *   **CRUD Operations**: Registered users can create new posts, read detailed views, edit, or delete existing posts.
 *   **Deployment Configs**: Deployment setup utilizing `gunicorn` and `whitenoise` for compressed & cached static asset delivery.
-*   **Developer Superuser Script**: An automated script `createsuperuser.py` to seed administrators using secure environment variables or local test credentials, since free version of render doesn't support shell I had to use this script to inject admin information during build process. 
+*   **Developer Superuser Script**: An automated script `createsuperuser.py` to seed administrators using environment variables or local test credentials, since free version of render doesn't support shell I had to use this script to inject admin information during build process. 
 
 ---
 
