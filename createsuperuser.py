@@ -10,7 +10,7 @@ User = get_user_model()
 
 # Pull secrets securely from the environment, use safe defaults for local testing
 username = os.environ.get("DJANGO_SUPERUSER_USERNAME", "farzan")
-email = os.environ.get("DJANGO_SUPERUSER_EMAIL", "farzanfaisal77@.com")
+email = os.environ.get("DJANGO_SUPERUSER_EMAIL", "farzanfaisal77@gmail.com")
 password = os.environ.get("DJANGO_SUPERUSER_PASSWORD", "admin123")
 
 if not User.objects.filter(username=username).exists():
