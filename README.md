@@ -153,7 +153,7 @@ Follow <a href="https://www.notion.so/Deployment-CheckList-for-Render-365e213526
    ```
    Open your browser and navigate to `http://127.0.0.1:8000/` to explore the interface
 
-### If hosting anywhere you can go to `<url>/admin` to see the admin panel with the created details
+### If hosting anywhere you can go to `<url>/admin` to view and login the admin panel with the creditials given
 
 ---
 
