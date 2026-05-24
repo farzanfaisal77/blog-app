@@ -95,6 +95,8 @@ blog-app/
 
 Follow these steps to run the application locally on your computer.
 
+Follow [this](https://www.notion.so/Deployment-CheckList-for-Render-365e2135265480ceafbaf96bb1d11768?source=copy_link) for my deployment checklist for [Render](https://render.com/).
+
 ### Prerequisites
 
 *   Python 3.14 or higher installed.
