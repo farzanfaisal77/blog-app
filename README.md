@@ -145,13 +145,15 @@ Follow <a href="https://www.notion.so/Deployment-CheckList-for-Render-365e213526
    ```bash
    python createsuperuser.py
    ```
-   *Default login details created: Username: **farzan** | Password: **admin123***
+   *Default login details: Username: **farzan** | Password: **admin123***
 
 6. **Start the Dev Server**:
    ```bash
    python manage.py runserver
    ```
    Open your browser and navigate to `http://127.0.0.1:8000/` to explore the interface
+
+### If hosting anywhere you can go to `<url>/admin` to view and login the admin panel with the creditials given
 
 ---
 
